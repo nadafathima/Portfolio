@@ -8,7 +8,7 @@ export const Bio = {
     "Freelancer",
   ],
   description:
-    "I'm a passionate and flexible developer who loves learning new things. I focus on creating high-quality solutions and am always ready to tackle new challenges with a positive attitude. I'm excited to contribute to meaningful projects and achieve great results.",
+    "A passionate and flexible developer who loves learning new things. I focus on creating high-quality solutions and am always ready to tackle new challenges with a positive attitude. I'm excited to contribute to meaningful projects and achieve great results.",
   github: "https://github.com/nadafathima",
   resume:
     "https://drive.google.com/file/d/14TAPJivFPlKhUq6nR8g27banlcljW5ym/view?usp=drive_link",
