@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-           Designed and Developed by NaDa. All rights reserved &copy; 2024.
+           Designed and Developed by NaDa. All rights reserved &copy;  {new Date().getFullYear()}..
         </Copyright>
 
       </FooterWrapper>
