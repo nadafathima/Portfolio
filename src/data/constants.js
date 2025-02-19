@@ -14,7 +14,7 @@ export const Bio = {
     "https://drive.google.com/file/d/14TAPJivFPlKhUq6nR8g27banlcljW5ym/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/nadafathimato/",
   twitter: "https://x.com/NadaFathimato",
-  insta: "https://www.instagram.com/nadhaahh/",
+  insta: "https://www.instagram.com/nada_fathema/",
   facebook: "https://www.facebook.com/nada.fathimato",
 };
 
