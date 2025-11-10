@@ -163,7 +163,7 @@ export const education = [
     img: "https://i.postimg.cc/0285Gj1X/ihrd.png",
     school: "IHRD college of Applied Science Kozhikode",
     date: "2021 - 2024",
-    grade: "62%",
+    // grade: "62%",
     degree: "Bachelor of Computer Application",
   },
   {
@@ -171,7 +171,7 @@ export const education = [
     img: "https://i.postimg.cc/MHtS30JP/gov.jpg",
     school: "SNTHSS Chelannur",
     date: "2019 - 2021",
-    grade: "81%",
+    // grade: "81%",
     degree: "XII, Science",
   },
   {
@@ -179,7 +179,7 @@ export const education = [
     img: "https://i.postimg.cc/MHtS30JP/gov.jpg",
     school: "GHSS Narikkuni",
     date: "2017 - 2019",
-    grade: "98%",
+    // grade: "98%",
     degree: "SSLC ",
   },
 ];
@@ -197,8 +197,8 @@ export const projects = [
       "HTML",
       "CSS",
     ],
-    github: "https://github.com/nadafathima/",
-    webapp: "",
+    // github: "https://github.com/nadafathima/",
+    // webapp: "",
   },
   {
     id: 1,
@@ -209,8 +209,8 @@ export const projects = [
     image:
       "https://i.postimg.cc/Sxd602V2/ecommerce.png",
     tags: ["HTML", "CSS", "Bootstrap", "Javascript"],
-    github: "https://github.com/nadafathima/",
-    webapp: "",
+    // github: "https://github.com/nadafathima/",
+    // webapp: "",
   },
 
   {
@@ -222,8 +222,8 @@ export const projects = [
     image:
       "https://i.postimg.cc/MTsnpVNN/coffee.png",
     tags: ["HTML", "CSS", "Bootstrap"],
-    github: "https://github.com/nadafathima/",
-    webapp: "",
+    // github: "https://github.com/nadafathima/",
+    // webapp: "",
   },
   {
     id: 3,
@@ -234,8 +234,8 @@ export const projects = [
     image:
       "https://i.postimg.cc/Px0Zb0QT/news.png",
     tags: ["HTML", "CSS", "Bootstrap","React.js"],
-    github: "https://github.com/nadafathima/",
-    webapp: "",
+    // github: "https://github.com/nadafathima/",
+    // webapp: "",
   },
   {
     id: 4,
@@ -246,8 +246,8 @@ export const projects = [
     image:
       "https://i.postimg.cc/k4QYLNYr/bmi.png",
     tags: ["HTML", "CSS", "Bootstrap","React.js"],
-    github: "https://github.com/nadafathima/",
-    webapp: "",
+    // github: "https://github.com/nadafathima/",
+    // webapp: "",
   },
   {
     id: 5,
@@ -258,8 +258,8 @@ export const projects = [
     image:
       "https://i.postimg.cc/1RL4vGhR/calculator.png",
     tags: ["HTML", "CSS", "Bootstrap","Javascript"],
-    github: "https://github.com/nadafathima/",
-    webapp: "",
+    // github: "https://github.com/nadafathima/",
+    // webapp: "",
   },
 
 ];
