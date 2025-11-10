@@ -163,7 +163,6 @@ export const education = [
     img: "https://i.postimg.cc/0285Gj1X/ihrd.png",
     school: "IHRD college of Applied Science Kozhikode",
     date: "2021 - 2024",
-    // grade: "62%",
     degree: "Bachelor of Computer Application",
   },
   {
@@ -171,7 +170,6 @@ export const education = [
     img: "https://i.postimg.cc/MHtS30JP/gov.jpg",
     school: "SNTHSS Chelannur",
     date: "2019 - 2021",
-    // grade: "81%",
     degree: "XII, Science",
   },
   {
@@ -179,7 +177,6 @@ export const education = [
     img: "https://i.postimg.cc/MHtS30JP/gov.jpg",
     school: "GHSS Narikkuni",
     date: "2017 - 2019",
-    // grade: "98%",
     degree: "SSLC ",
   },
 ];
